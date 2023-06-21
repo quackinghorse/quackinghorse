@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Lakshya Joshi</h1>
 <h3 align="center">A passionate app developer having a keen interest in competitive programming and technology.</h3>
-<image align = "right" width ="400" alt = "coding" src ="![image](https://github.com/quackinghorse/quackinghorse/assets/99648930/595adacf-6690-40a1-ad64-b9502c9956db)
-">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quackinghorse&label=Profile%20views&color=0e75b6&style=flat" alt="quackinghorse" /> </p>
 
 - 🌱 I’m currently learning **app dev using Kotlin , Firebase and NLP**
